@@ -1,2 +1,2 @@
-# TestingWiki
-Este repositorio es para probar el desarrollo de wikis
+# WikiCoches
+Aquí veremos los coches más caros del momento.
